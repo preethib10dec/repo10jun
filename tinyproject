@@ -1,0 +1,4 @@
+variablex=4
+variabley=8
+sum=variablex+variabley
+print(sum)
